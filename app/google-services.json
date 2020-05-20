@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475122121046",
+    "firebase_url": "https://videoteka-830bb.firebaseio.com",
+    "project_id": "videoteka-830bb",
+    "storage_bucket": "videoteka-830bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475122121046:android:d2ee478e89c633470c7ef7",
+        "android_client_info": {
+          "package_name": "com.example.videoteka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475122121046-48o7lsr0l3vdfvl08207ne5nfd9sc84j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videoteka",
+            "certificate_hash": "2b07ddcb52659e8aad905084f9ebefb1da5edd9e"
+          }
+        },
+        {
+          "client_id": "475122121046-k3tsd1mu0ngkcj15rkv7fsdfmuojob11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD135bQZHjVgX1S7_G46KyZVrS6E2HwxF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475122121046-k3tsd1mu0ngkcj15rkv7fsdfmuojob11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
